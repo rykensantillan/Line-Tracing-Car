@@ -2,6 +2,7 @@
    Ryken Santillan
    05/06/2022
    Code for Line-Tracing Robot 
+   Project Members: George Chen, Jimmie So
 */
 
 //-----Motor Connections
